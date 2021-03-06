@@ -1,0 +1,8 @@
+todo: create file creating/reading module.
+    todo: create CCIL project file module
+    todo: create module for exporting project to be used in game
+todo: create camera module for viewport navigation
+    todo: create camera controls
+todo: create image importing
+todo: create collision creator
+todo: create item inserter
